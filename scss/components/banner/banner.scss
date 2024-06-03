@@ -1,0 +1,18 @@
+.banner {
+
+    &__text,
+    &__form-wrapper {
+        width: 50%;
+    }
+
+    &__lable{
+        display: block;
+
+    }
+
+    &__input{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+}
